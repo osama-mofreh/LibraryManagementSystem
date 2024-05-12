@@ -32,7 +32,6 @@ To run this application, you'll need:
 
 - Java Development Kit (JDK) version 11 or higher
 - Maven
-- MySQL or another supported database
 
 ### Installation
 
