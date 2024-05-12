@@ -29,7 +29,7 @@ The Library Management System is a Java application built using Spring Boot that
 
 To run this application, you'll need:
 
-- Java Development Kit (JDK) version 11 or higher
+- Java Development Kit (JDK) version 17 or higher
 - Maven
 
 ### Installation
