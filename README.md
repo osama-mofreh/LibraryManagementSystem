@@ -11,7 +11,6 @@ The Library Management System is a Java application built using Spring Boot that
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Testing](#testing)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
